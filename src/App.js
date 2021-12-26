@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <Navbar bg="dark" variant="dark">
+      <Navbar bg="dark" variant="dark" fixed='top'>
         <Container>
         <Nav className="me-auto">
           <Nav.Link><Link to='/' style={{textDecoration:'none', color:'white'}}>Home</Link></Nav.Link>
