@@ -30,7 +30,7 @@ function Projects() {
           </Card>
           <Card style={{margin:'25px 0 25px 0'}}>
             <Card.Header style={{fontSize: "1.6em", backgroundColor:'#212529', color:'white'}}  className="text-center">StarGenerator</Card.Header>
-            <Card.Link href='https://www.howardandgoldstein.com/'><Card.Img src='imgs/starLogo.png' style={{height:'200px', objectFit: 'contain', background:'#000000', padding:'15px'}} /></Card.Link>
+            <Card.Link href='https://startokennft.com/'><Card.Img src='imgs/starLogo.png' style={{height:'200px', objectFit: 'contain', background:'#000000', padding:'15px'}} /></Card.Link>
             <Card.Body style={{background:'#c7c4c3'}}>
               <p>An algoritm that automatically generates star systems from a .txt file with only four input variables: Name, Star Color, Star Radius, and Star Amount.</p>
             </Card.Body>
