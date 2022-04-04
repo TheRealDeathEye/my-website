@@ -8,7 +8,7 @@ function AboutMe() {
       <Card style={{width:'85%', maxWidth:'500px', margin:'25px 0 25px 0'}}>
         <Card.Header style={{fontSize: "1.6em", backgroundColor:'#212529', color:'white'}}  className=" text-center">About Me</Card.Header>
         <Card.Body style={{background:'#c7c4c3'}}>
-          <p>I am a Computer Engineer attending University of Missouri - Columbia. CEO of a tech startup based in St Louis, Missouri.</p>
+          <p>I am a Computer Engineer attending University of Missouri - Columbia along with being a Co-CEO of Howard & Goldstein LLC, a holding compnay based in Hillsboro, Missouri.</p>
         </Card.Body>
       </Card>
       <div className='row' style={{width:'65%', maxWidth:'300px'}}>
