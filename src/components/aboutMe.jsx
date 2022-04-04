@@ -27,6 +27,7 @@ function AboutMe() {
             <div className='col-4'><p>React</p></div>
             <div className='col-4'><p>HTML</p></div>
             <div className='col-4'><p>CSS</p></div>
+            <div className='col-4'><p>C</p></div>
             <div className='col-4'><p>Python</p></div>
             <div className='col-4'><p>Java</p></div>
           </div>
